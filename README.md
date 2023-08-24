@@ -1,23 +1,23 @@
-# Hey there! 👋
+### Hey there! 👋
 
-I'm Ashish Prasad, a passionate software developer on a journey to turn lines of code into meaningful solutions.
+> I'm Ashish Prasad, a passionate software developer on a journey to turn lines of code into meaningful solutions.
 
-## 🚀 Expertise
+### 🚀 Expertise
 
-My expertise lies in web development, data analysis, machine learning, and I'm always excited to dive into new technologies and challenges.
+- My expertise lies in web development, data analysis, machine learning, and I'm always excited to dive into new technologies and challenges.
 
-## 🌱 Currently
+### 🌱 Currently
 
-I'm currently exploring building scalable web applications, mastering Python libraries, contributing to open source.
+- I'm currently exploring building scalable web applications, mastering Python libraries, contributing to open source.
 
-## 💡 Philosophy
+### 💡 Philosophy
 
-I believe in the power of collaboration and open source. Many of my projects here are a result of tinkering, learning, and sharing knowledge with the community.
+- I believe in the power of collaboration and open source. Many of my projects here are a result of tinkering, learning, and sharing knowledge with the community.
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
-Feel free to reach out to me if you want to discuss tech, share ideas, or collaborate on exciting projects.
+- Feel free to reach out to me if you want to discuss tech, share ideas, or collaborate on exciting projects.
 
-## 🌐 Explore
+### 🌐 Explore
 
-Check out my repositories below to see some of my work. Looking forward to our coding journey together!
+- Check out my repositories below to see some of my work. Looking forward to our coding journey together!
