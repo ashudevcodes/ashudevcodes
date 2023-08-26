@@ -4,7 +4,7 @@
 
 | 🚀 Expertise  | 🌱 Currently |
 | ------------- | ------------- |
-| My expertise lies in web development, data analysis, machine learning, and I'm always excited to diveinto new technologies and challenges.|I'm currently exploring building scalable web applications, mastering Python libraries, contributing to open source.|
+| My expertise lies in web development, data analysis, machine learning, and I'm always excited to dive into new technologies and challenges.|I'm currently exploring building scalable web applications, mastering Python libraries, contributing to open source.|
 
 |💡 Philosophy |
 | ------------- |
