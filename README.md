@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-> ***I'm Ashish Prasad, a passionate software developer on a journey to turn lines of code into meaningful solutions.***
+> ***I'm Ashish Prasad, a passionate software developer and Data Scientist on a journey to turn lines of code into meaningful solutions.***
 
 | 🚀 Expertise  | 🌱 Currently |
 | ------------- | ------------- |
