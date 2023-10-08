@@ -14,7 +14,7 @@
 
 - Feel free to reach out to me if you want to discuss tech, share ideas, or collaborate on exciting projects.
 
-- <a href="https://www.linkedin.com/in/ashish-prasad-92223a228/"><kbd><img align="centre" alt="Ashish's LinkdeIn" width="25px" src="https://cdn.pixabay.com/photo/2017/02/08/08/39/linkedin-2048132_1280.png" /></a>  <a href="https://www.instagram.com/ashishprasad__/"><kbd><img align="centre" alt="Ashish's Instagram" width="25px" src="https://img.icons8.com/plasticine/200/instagram.png"/></a>  <a href="mailto: ashishprasad949@gmail.com"><kbd><img align="centre" alt="Ashish's Gmail" width="25px" src="https://img.icons8.com/plasticine/200/gmail-new.png" /></a>
+- <a href="www.linkedin.com/in/ashish-prasad-dev"><kbd><img align="centre" alt="Ashish's LinkdeIn" width="25px" src="https://cdn.pixabay.com/photo/2017/02/08/08/39/linkedin-2048132_1280.png" /></a>  <a href="https://www.instagram.com/ashishprasad__/"><kbd><img align="centre" alt="Ashish's Instagram" width="25px" src="https://img.icons8.com/plasticine/200/instagram.png"/></a>  <a href="mailto: ashishprasad949@gmail.com"><kbd><img align="centre" alt="Ashish's Gmail" width="25px" src="https://img.icons8.com/plasticine/200/gmail-new.png" /></a>
 
 
 ### 🌐 Explore
