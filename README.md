@@ -4,7 +4,7 @@
 
 | 🚀 Expertise | 🌱 Currently |
 | ------------- | ------------- |
-| My journey involves exploring the realms of Software development and Machine learning. I thrive on challenges and constantly embrace new technologies. | I'm currently exploring building scalable web applications, mastering Python libraries, contributing to open source.|
+| My journey involves exploring the realms of development. I thrive on challenges and constantly embrace new technologies. | I'm currently exploring building scalable web applications, mastering Python libraries, contributing to open source.|
 
 |💡 Philosophy |
 | ------------- |
