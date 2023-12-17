@@ -4,7 +4,7 @@
 
 | 🚀 Expertise | 🌱 Currently |
 | ------------- | ------------- |
-| My journey involves exploring the realms of development. I thrive on challenges and constantly embrace new technologies. | I'm currently exploring building scalable web applications, mastering Python and Javascript libraries, contributing to open source.|
+| My journey involves exploring the realms of development. I thrive on challenges and constantly embrace new technologies. | I'm currently exploring building scalable web applications and softwares, mastering Python and Javascript, contributing to open source.|
 
 |💡 Philosophy |
 | ------------- |
