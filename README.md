@@ -4,19 +4,19 @@
 
 | 🚀 Expertise | 🌱 Currently |
 | ------------- | ------------- |
-| My journey involves exploring the realms of development. I thrive on challenges and constantly embrace new technologies. | I'm currently exploring building scalable web applications and softwares, mastering C++ and Javascript, contributing to open source.|
+| I'm always curious about the latest tech and how to use it to build cool stuff. Every project is a chance to keep learning. |  I'm building awesome web apps that can handle a lot of users, learning C++ and JavaScript to become an expert, and helping out on some cool open-source projects.|
 
 |💡 Philosophy |
 | ------------- |
-|I believe in the power of collaboration and open source. Many of my projects are born out of tinkering, learning, and sharing knowledge with the community.|
+|I love working with others and sharing what I know! That's how I get most of my ideas - by trying new things, learning, and talking to other people about code.|
 
 ### 📫 Let's Connect
 
-- Feel free to reach out! Whether you want to discuss tech, share ideas, or collaborate on exciting projects, I'm all ears.
+- Let's chat! I'm always down to talk about tech, share ideas, or even work on some awesome projects together. Hit me up!.
 
 - <a href="https://www.linkedin.com/in/ashudevcodes/"><kbd><img align="centre" alt="Ashish's LinkdeIn" width="25px" src="https://cdn.pixabay.com/photo/2017/02/08/08/39/linkedin-2048132_1280.png" /></a> <a href="https://www.instagram.com/ashishprasad__/"><kbd><img align="centre" alt="Ashish's Instagram" width="25px" src="https://img.icons8.com/plasticine/200/instagram.png"/></a> <a href="mailto: ashishprasad949@gmail.com"><kbd><img align="centre" alt="Ashish's Gmail" width="25px" src="https://img.icons8.com/plasticine/200/gmail-new.png" /></a> <a href="https://discord.com/channels/@ashudevcodes"><kbd><img align="centre" alt="Ashish's Discord" width="25px" src="https://img.icons8.com/bubbles/50/discord-logo.png"/></a>
 
-### 📦 Tools I Use
+### 📦 Tools i use
 
 <p align="center">
   <a href="#">
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-### My Stats
+### 📜 My Stats
 
 <p align="justify">
   <a href="#">
