@@ -8,13 +8,17 @@
 
 |💡 Philosophy |
 | ------------- |
-|I love working with others and sharing what I know! That's how I get most of my ideas - by trying new things, learning, and talking to other people about code.|
+|I love working with others and sharing what I know! That's how I get most of my ideas - by trying new things, learning, and talking to other people about code.| 
+
+<img width="370" align="left" src="https://github.com/ashudevcodes/ashudevcodes/assets/105356967/48451b7b-a007-411d-8398-141304ecbee2"  />
 
 ### 📫 Let's chat!
 
--  I'm always down to talk about tech, share ideas, or even work on some awesome projects together.
+   I'm always down to talk about tech, share ideas, or even work on some awesome projects together.
 
- - <a href="https://www.linkedin.com/in/ashudevcodes/"><kbd><img align="centre" alt="Ashish's LinkdeIn" width="25px" src="https://cdn.pixabay.com/photo/2017/02/08/08/39/linkedin-2048132_1280.png" /></a> <a href="https://www.instagram.com/ashishprasad__/"><kbd><img align="centre" alt="Ashish's Instagram" width="25px" src="https://img.icons8.com/plasticine/200/instagram.png"/></a> <a href="mailto: ashishprasad949@gmail.com"><kbd><img align="centre" alt="Ashish's Gmail" width="25px" src="https://img.icons8.com/plasticine/200/gmail-new.png" /></a> <a href="https://discord.com/channels/@ashudevcodes"><kbd><img align="centre" alt="Ashish's Discord" width="25px" src="https://img.icons8.com/bubbles/50/discord-logo.png"/></a>
+  <a href="https://www.linkedin.com/in/ashudevcodes/"><kbd><img align="centre" alt="Ashish's LinkdeIn" width="25px" src="https://cdn.pixabay.com/photo/2017/02/08/08/39/linkedin-2048132_1280.png" /></a> <a href="https://www.instagram.com/ashishprasad__/"><kbd><img align="centre" alt="Ashish's Instagram" width="25px" src="https://img.icons8.com/plasticine/200/instagram.png"/></a> <a href="mailto: ashishprasad949@gmail.com"><kbd><img align="centre" alt="Ashish's Gmail" width="25px" src="https://img.icons8.com/plasticine/200/gmail-new.png" /></a> <a href="https://discord.com/channels/@ashudevcodes"><kbd><img align="centre" alt="Ashish's Discord" width="25px" src="https://img.icons8.com/bubbles/50/discord-logo.png"/></a>
+
+<br>
 
 ### 📦 Tools I use
 
