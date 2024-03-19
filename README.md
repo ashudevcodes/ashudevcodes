@@ -10,7 +10,10 @@
 | ------------- |
 |I love working with others and sharing what I know! That's how I get most of my ideas - by trying new things, learning, and talking to other people about code.| 
 
-<img width="370" align="left" src="https://github.com/ashudevcodes/ashudevcodes/assets/105356967/48451b7b-a007-411d-8398-141304ecbee2"/>
+<div hignt="50%" width="50%" object-fit="contain">
+  <img hignt="50%" width="50%" object-fit="contain" align="left" src="https://github.com/ashudevcodes/ashudevcodes/assets/105356967/48451b7b-a007-411d-8398-141304ecbee2"/>
+
+</div>
 
 ### 📫 Let's chat!
 
