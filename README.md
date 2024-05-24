@@ -1,14 +1,14 @@
 ### 👋 Hey there!
 
-> ***I'm Ashish, a web developer. I write code that brings websites to life and can also work on the inner workings of computers. My goal is to turn lines of code into solutions that make a real difference..***
+> ***I'm a software guy based in India, and my jam is breathing life into code. Web dev, OS dev, software dev - you name it, I code it. For me, it's all about taking those 0s and 1s and molding them into something useful, something that actually makes a difference in people's lives. the code itself is just a bunch of text, but in the right hands, it becomes a powerful tool for solving real-world problems. That's what gets me fired up every day..***
 
-| 🚀 Expertise | 🌱 Currently |
-| ------------- | ------------- |
-| I'm always curious about the latest tech and how to use it to build cool stuff. Every project is a chance to keep learning. |  I'm building awesome web apps that can handle a lot of users, learning C++ and JavaScript to become an expert, and helping out on some cool open-source projects.|
+| 🌱 Currently |
+| ------------- |
+| Developing high-performance web applications capable of handling massive user traffic. Mastering C / C++ and JavaScript / TypeScript to become an expert. Contributing to cutting-edge open-source projects |
 
 |💡 Philosophy |
 | ------------- |
-|I love working with others and sharing what I know! That's how I get most of my ideas - by trying new things, learning, and talking to other people about code.| 
+|Knowledge sharing is at the heart of my philosophy. Engaging with others, experimenting with novel approaches, and engaging in thought discussions about code – these are the catalysts that spark my most ingenious ideas| 
 
 
 <div hignt="40%" width="40%" object-fit="contain">
