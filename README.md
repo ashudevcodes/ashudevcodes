@@ -7,6 +7,9 @@
   > ***I'm a software guy based in India, and my jam is breathing life into code. Web dev, OS dev, software dev - you name it, I code it. For me, it's all about taking those 0s and 1s and molding them into something useful, something that actually makes a difference in people's lives. the code itself is just a bunch of text, but in the right hands, it becomes a powerful tool for solving real-world problems. That's what gets me fired up every day..***
 
 </details>
+
+![image](https://github.com/ashudevcodes/ashudevcodes/assets/105356967/f1fad3eb-5a62-4607-9e7c-7c43ab939bd7)
+
   
 | 🌱 Currently |
 | ------------- |
