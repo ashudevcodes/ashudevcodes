@@ -1,5 +1,7 @@
 ## 👋 Hey there!
 
+![image](https://github.com/ashudevcodes/ashudevcodes/assets/105356967/f1fad3eb-5a62-4607-9e7c-7c43ab939bd7)
+
 <details>
   <summary>My Self</summary>
   <br>
@@ -12,14 +14,11 @@
 | ------------- | ------------- |
 | Developing high-performance web applications capable of handling massive user traffic. Mastering C / C++ and JavaScript / TypeScript to become an expert. Contributing to cutting-edge open-source projects | Knowledge sharing is at the heart of my philosophy. Engaging with others, experimenting with novel approaches, and engaging in thought discussions about code – these are the catalysts that spark my most ingenious ideas| 
 
-
-![image](https://github.com/ashudevcodes/ashudevcodes/assets/105356967/f1fad3eb-5a62-4607-9e7c-7c43ab939bd7)
-
 <div hignt="40%" width="40%" object-fit="contain">
   <img hignt="40%" width="40%" object-fit="contain" align="left" src="https://github.com/ashudevcodes/ashudevcodes/assets/105356967/48451b7b-a007-411d-8398-141304ecbee2"/>
 </div>
 
-## 📫 Let's chat!
+### 📫 Let's chat!
 
 I'm always down to talk about tech, share ideas, or even work on some awesome projects together.
 
