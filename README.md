@@ -1,9 +1,9 @@
-## 👋 Hey there!
+## 👋 Hey there! 
 
 ![image](https://github.com/ashudevcodes/ashudevcodes/assets/105356967/f1fad3eb-5a62-4607-9e7c-7c43ab939bd7)
 
 <details>
-  <summary>My Self</summary>
+  <summary> My Self <img hight="3%" width="3%" src="https://camo.githubusercontent.com/5e7db7b3e85cae70afcbb89a825f85d9e093d7eb295026395e463ab22ca92688/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966"> </summary>
   <br>
 
   > ***I'm a software guy based in India, and my jam is breathing life into code. Web dev, OS dev, software dev - you name it, I code it. For me, it's all about taking those 0s and 1s and molding them into something useful, something that actually makes a difference in people's lives. the code itself is just a bunch of text, but in the right hands, it becomes a powerful tool for solving real-world problems. That's what gets me fired up every day..***
