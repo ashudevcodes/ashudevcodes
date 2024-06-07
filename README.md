@@ -1,4 +1,4 @@
-## 👋 Hey there!
+## 👋 Hakuna Matata!
 
 ![image](./assets/india.png)
 
