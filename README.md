@@ -1,4 +1,4 @@
-<h1 align="left">Hakuna Matata! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/></h1>
+<h1 align="left">Hakuna Matata! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="26"/></h1>
 
 ![image](./assets/india.png)
 
