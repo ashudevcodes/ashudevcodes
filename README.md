@@ -9,7 +9,7 @@
 
 </details>
 
-|  What am'i do now |
+|  What am I doing now |
 | ------------- | 
 | > ***Spend my time understanding Operating system and developing high-performance web applications that can handle massive user traffic . No big deal. I also master C/C++ and JavaScript/TypeScript because, why not? And yes, I contribute to cutting-edge open-source projects. Just your average day in the life of a software guy.*** |
 
