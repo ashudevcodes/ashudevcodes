@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,js,cpp,c,react,svelte,htmx,nextjs,tailwindcss,bun,nodejs,linux,neovim" alt="TypeScript, Javascript, C++, C, React, Svelte (Kit), Htmx, Next.js, TailwindCSS, Bun, Node.js, Linux">
+    <img src="https://skillicons.dev/icons?i=ts,js,cpp,c,go,react,svelte,htmx,bun,nodejs,linux,nix,neovim" alt="TypeScript, Javascript, C++, C, React, Svelte (Kit), Htmx, Next.js, TailwindCSS, Bun, Node.js, Linux">
   </a>
 </p>
 
