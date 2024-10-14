@@ -5,7 +5,7 @@
 <details>
 <summary>About Me <img height="20" width="20" src="./assets/parrot.gif"></summary>
 
-> ***Yep, I'm a software guy from India, and I spend my days turning a bunch of codes and 0s and 1s into something meaningful. Web development, software development, operating systems development I can be anyone. Sure, code is just a bunch of text, but hey, in the right hands (like mine), it magically becomes a powerful tool for solving real-world problems. And yeah, that's what gets me excited every single day.***
+> ***Yep, I'm a software guy from India, and I spend my days solving problems algorithmically, breaking problems into steps that computers can follow within some contraints, thus forming a solution to the original problem; and expressing the solution in a way that the computer can understand. Yeah, that's what gets me excited every day.***
 
 </details>
 
