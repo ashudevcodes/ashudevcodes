@@ -19,9 +19,9 @@
 
 ### 📫 Let's connect!
 
-<sub> I'm always down to talk about tech, share ideas, or even work on some awesome projects together.</sub>
+<p> I'm always down to talk about tech, share ideas, or even work on some awesome projects together.</p>
 
-<a href="https://www.linkedin.com/in/ashudevcodes/"><kbd><img align="centre" alt="Ashish's LinkdeIn" width="25px" src="https://cdn.pixabay.com/photo/2017/02/08/08/39/linkedin-2048132_1280.png" /></a> <a href="https://www.instagram.com/ashishprasad__/"><kbd><img align="centre" alt="Ashish's Instagram" width="25px" src="https://img.icons8.com/plasticine/200/instagram.png"/></a> <a href="mailto: ashishprasad949@gmail.com"><kbd><img align="centre" alt="Ashish's Gmail" width="25px" src="https://img.icons8.com/plasticine/200/gmail-new.png" /></a> <a href="https://discord.com/channels/@ashudevcodes"><kbd><img align="centre" alt="Ashish's Discord" width="25px" src="https://img.icons8.com/bubbles/50/discord-logo.png"/></a> <a href="https://signal.me/#eu/oQPOyJDVfCfjKQGm3y5-qR-VdoWef77dkuCWx_ADMW6m1x3NCYpLvbFoXk6OnKXC"><kbd><img align="centre" alt="Ashish's Signal" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/signal-app-icon.png"/></a>
+<a href="https://discord.com/channels/@ashudevcodes"><kbd><img align="centre" alt="Ashish's Discord" width="25px" src="https://img.icons8.com/bubbles/50/discord-logo.png"/></a> <a href="https://signal.me/#eu/oQPOyJDVfCfjKQGm3y5-qR-VdoWef77dkuCWx_ADMW6m1x3NCYpLvbFoXk6OnKXC"><kbd><img align="centre" alt="Ashish's Signal" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/signal-app-icon.png"/></a>
 
 \
 &nbsp;
@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,js,cpp,c,go,react,svelte,htmx,bun,nodejs,linux,nix,neovim" alt="TypeScript, Javascript, C++, C, React, Svelte (Kit), Htmx, Next.js, TailwindCSS, Bun, Node.js, Linux">
+    <img src="https://skillicons.dev/icons?i=ts,js,cpp,c,go,linux,neovim,react,bun,nodejs" alt="TypeScript, Javascript, C++, C, React, Bun, Node.js, Linux, NeoVim,">
   </a>
 </p>
 
