@@ -14,7 +14,7 @@
 | > ***Spend my time understanding Operating system and developing high-performance web applications that can handle massive user traffic . No big deal. I also master C/C++ and JavaScript/TypeScript because, why not? And yes, I contribute to cutting-edge open-source projects. Just your average day in the life of a software guy.*** |
 
 <div hignt="40%" width="40%" object-fit="contain">
-  <img hignt="40%" width="40%" object-fit="contain" align="left" src="./assets/simpsons.jpeg"/>
+  <img hignt="40%" width="40%" object-fit="contain" align="left" src="./assets/wild_robot.jpg"/>
 </div>
 
 ### 📫 Let's connect!
