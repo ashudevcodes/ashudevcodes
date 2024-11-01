@@ -33,13 +33,3 @@
     <img src="https://skillicons.dev/icons?i=ts,js,cpp,c,go,linux,neovim,react,bun,nodejs" alt="TypeScript, Javascript, C++, C, React, Bun, Node.js, Linux, NeoVim,">
   </a>
 </p>
-
-
-## 🛶 My GitHub Stats
-
-<p align="left">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=ashudevcodes&theme=tokyoknight&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashudevcodes&layout=compact&theme=tokyoknight&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
-  </a>
-</p>
