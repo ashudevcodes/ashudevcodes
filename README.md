@@ -23,8 +23,6 @@
 
 <a href="https://discord.com/channels/@ashudevcodes"><kbd><img align="centre" alt="Ashish's Discord" width="25px" src="https://img.icons8.com/bubbles/50/discord-logo.png"/></a> <a href="https://signal.me/#eu/oQPOyJDVfCfjKQGm3y5-qR-VdoWef77dkuCWx_ADMW6m1x3NCYpLvbFoXk6OnKXC"><kbd><img align="centre" alt="Ashish's Signal" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/signal-app-icon.png"/></a>
 
-\
-&nbsp;
 
 ## 📦 Tools I use
 
