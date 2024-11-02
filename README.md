@@ -1,4 +1,4 @@
-<h1>Hey There! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="26" style="vertical-align: bottom;"/></h1>
+<h1>Hey There! <img alt="wave" src="[handEmoji]" width="26" style="vertical-align: bottom;"/></h1>
 
 ![image](./assets/india.png)
 
@@ -31,3 +31,5 @@
     <img src="https://skillicons.dev/icons?i=ts,js,cpp,c,go,linux,neovim,react,bun,nodejs" alt="TypeScript, Javascript, C++, C, React, Bun, Node.js, Linux, NeoVim,">
   </a>
 </p>
+
+[handEmoji]: https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020
