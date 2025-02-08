@@ -28,9 +28,9 @@
 
 
 ### 📦 Tools I use
-<p align="canter">
+<p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,js,cpp,c,go,linux,neovim,react,bun,nodejs" alt="TypeScript, Javascript, C++, C, React, Bun, Node.js, Linux, NeoVim,">
+    <img style="width:55%" src="https://skillicons.dev/icons?i=ts,js,cpp,c,go,linux,neovim,react,bun,nodejs" alt="TypeScript, Javascript, C++, C, React, Bun, Node.js, Linux, NeoVim">
   </a>
 </p>
 
