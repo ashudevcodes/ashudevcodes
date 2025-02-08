@@ -13,9 +13,11 @@
 | ------------- | 
 | ***Currently mastering the dark arts of Operating Systems because apparently "Hello World" wasn't challenging enough. Juggling C++, JavaScript, GoLang because using just one language is for amateurs***|
 
+
 <div hignt="40%" width="40%" object-fit="contain">
   <img hignt="40%" width="40%" object-fit="contain" align="left" src="./assets/wild_robot.jpg"/>
 </div>
+
 
 ### 📫 Connect
 
@@ -26,8 +28,7 @@
 
 
 ### 📦 Tools I use
-
-<p align="center">
+<p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=ts,js,cpp,c,go,linux,neovim,react,bun,nodejs" alt="TypeScript, Javascript, C++, C, React, Bun, Node.js, Linux, NeoVim,">
   </a>
