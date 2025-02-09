@@ -1,5 +1,3 @@
-<h1>Hey There! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="26" style="vertical-align: bottom;"/></h1>
-
 ![image](./assets/india.png)
 
 <details>
