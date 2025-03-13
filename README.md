@@ -1,11 +1,7 @@
 ![image](./assets/india.png)
 
-<details>
-<summary>Who am I ?<img height="20" width="20" src="./assets/parrot.gif"></summary><br>
-  
-> ***I'm that dev from India who gets excited about solving problems algorithmically and doing unexpected things by tinkering with programming languages and software. Breaking down problems into small algorithms, coming up with solutions, thinking through logic, and writing code - that's what gets me pumped every day!***
 
-</details>
+>  ***“The important thing isn't can you read music, it's can you hear it. Can you hear the music” --Niels Bohr***
 
 |  What am I up to ? |
 | ------------- | 
