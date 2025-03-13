@@ -5,7 +5,7 @@
 
 |  What am I up to ? |
 | ------------- | 
-| ***Currently mastering the dark arts of Operating Systems because apparently "Hello World" wasn't challenging enough. Juggling C++, JavaScript, and GoLang because my left brain (cache memory) is empty enough to store all their syntax. Meanwhile, Right one was chilling with***$$\bigcup_{k=1}^{n} Pattern_k$$ |
+| ***Currently understanding the dark arts of Operating Systems because apparently "Hello World" wasn't challenging enough. Juggling C++, JavaScript, and GoLang because my left brain (cache memory) is empty enough to store all their syntax. Meanwhile, Right one was chilling with***$$\bigcup_{k=1}^{n} Pattern_k$$ |
 
 
 <div hignt="40%" width="40%" object-fit="contain">
