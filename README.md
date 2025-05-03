@@ -1,5 +1,6 @@
-![image](./assets/india.png)
 
+
+<kbd><img src="assets/india.png"></kbd>
 
 >  ***“The important thing isn't can you read music, it's can you hear it. Can you hear the music” --Niels Bohr***
 
