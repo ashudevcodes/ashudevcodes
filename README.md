@@ -6,7 +6,7 @@
 
 |  What am I up to ? |
 | ------------- | 
-| ***Currently understanding the dark arts of Operating System Kernel because apparently "Hello World" wasn't challenging enough. obsessed with system programming languages, Juggling C++, JavaScript, and Go because left brain (cache memory) is empty enough to store all their syntaxs. Meanwhile, Right one was chilling with*** $$\bigcup_{k=1}^{n} \text{Pattern}_k$$ |
+| ***Currently understanding the arts of Operating System Kernel because apparently "Hello World" wasn't challenging enough. obsessed with system programming languages. Left brain (cache memory) is empty enough to store all their syntaxs. Meanwhile, Right one was chilling with*** $$\bigcup_{k=1}^{n} \text{Pattern}_k$$ |
 
 
 <div hignt="40%" width="40%" object-fit="contain">
@@ -15,9 +15,6 @@
 
 
 ### 📫 Connect
-
-<p><strong>If you've got something interesting to talk</strong></p>
-
 <a href="https://discord.com/channels/@ashudevcodes"><kbd><img align="centre" alt="Ashish's Discord" width="25px" src="https://img.icons8.com/bubbles/50/discord-logo.png"/></a> 
 <a href="https://signal.me/#eu/oQPOyJDVfCfjKQGm3y5-qR-VdoWef77dkuCWx_ADMW6m1x3NCYpLvbFoXk6OnKXC"><kbd><img align="centre" alt="Ashish's Signal" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/signal-app-icon.png"/></a>
 
