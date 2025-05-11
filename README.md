@@ -19,7 +19,7 @@
 <a href="https://signal.me/#eu/oQPOyJDVfCfjKQGm3y5-qR-VdoWef77dkuCWx_ADMW6m1x3NCYpLvbFoXk6OnKXC"><kbd><img align="centre" alt="Ashish's Signal" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/signal-app-icon.png"/></a>
 
 
-### 📦 Tools I use
+### 📦 I just need this tools & Laptop
 <p align="center">
   <a href="#">
     <img style="width:50%" src="https://skillicons.dev/icons?i=js,cpp,go,lua,bash,java,python,linux,vim">
