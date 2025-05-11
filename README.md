@@ -20,8 +20,4 @@
   </a>
 </p>
 
-### 📫 Social Contact
-<a href="https://discord.com/channels/@ashudevcodes"><kbd><img align="centre" alt="Ashish's Discord" width="40px" src="https://img.icons8.com/bubbles/50/discord-logo.png"/></a> 
-<a href="https://signal.me/#eu/oQPOyJDVfCfjKQGm3y5-qR-VdoWef77dkuCWx_ADMW6m1x3NCYpLvbFoXk6OnKXC"><kbd><img align="centre" alt="Ashish's Signal" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/signal-app-icon.png"/></a>
-
 <p><strong>PS: If you're still using spaces instead of tabs, we need to have a serious talk.</strong></p>
