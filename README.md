@@ -13,17 +13,15 @@
   <img hignt="40%" width="40%" object-fit="contain" align="left" src="./assets/wild_robot.jpg"/>
 </div>
 
-
-### 📫 Social Contact
-<a href="https://discord.com/channels/@ashudevcodes"><kbd><img align="centre" alt="Ashish's Discord" width="25px" src="https://img.icons8.com/bubbles/50/discord-logo.png"/></a> 
-<a href="https://signal.me/#eu/oQPOyJDVfCfjKQGm3y5-qR-VdoWef77dkuCWx_ADMW6m1x3NCYpLvbFoXk6OnKXC"><kbd><img align="centre" alt="Ashish's Signal" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/signal-app-icon.png"/></a>
-
-
 ### 📦 I just need this tools & Laptop
 <p align="center">
   <a href="#">
     <img style="width:50%" src="https://skillicons.dev/icons?i=js,cpp,go,lua,bash,java,python,linux,vim">
   </a>
 </p>
+
+### 📫 Social Contact
+<a href="https://discord.com/channels/@ashudevcodes"><kbd><img align="centre" alt="Ashish's Discord" width="40px" src="https://img.icons8.com/bubbles/50/discord-logo.png"/></a> 
+<a href="https://signal.me/#eu/oQPOyJDVfCfjKQGm3y5-qR-VdoWef77dkuCWx_ADMW6m1x3NCYpLvbFoXk6OnKXC"><kbd><img align="centre" alt="Ashish's Signal" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/signal-app-icon.png"/></a>
 
 <p><strong>PS: If you're still using spaces instead of tabs, we need to have a serious talk.</strong></p>
