@@ -13,12 +13,12 @@
   <img hignt="40%" width="40%" object-fit="contain" align="left" src="./assets/wild_robot.jpg"/>
 </div>
 
-### 📦 I just need this tools & Laptop
-<br>
-<p align="center">
-  <a href="#">
-    <img style="width:50%" src="https://skillicons.dev/icons?i=js,cpp,go,lua,bash,java,python,linux,vim">
-  </a>
-</p>
-<br>
+
+<a href="#"><img style="width:30%" src="https://skillicons.dev/icons?i=js,cpp,go,lua,bash,java,python,linux,vim"></a>
+
+**if &nbsp; [ -n "$tools" ]  && [ -n "$myLaptop" ] && [-n "$[Fedora-dotfile](https://github.com/ashudevcodes/Fedora-dotfile)" ]; &nbsp; then <br>
+      &ensp;&ensp; [Sh Boom (Life Could Be A Dream)](https://open.spotify.com/track/0mWb7GqTPkzCkNsZ1XLOgw) <br>
+fi**
+              
+
 <p><strong>PS: If you're still using spaces instead of tabs, we need to have a serious talk.</strong></p>
