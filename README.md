@@ -19,5 +19,5 @@
     <img style="width:50%" src="https://skillicons.dev/icons?i=js,cpp,go,lua,bash,java,python,linux,vim">
   </a>
 </p>
-
+<br>
 <p><strong>PS: If you're still using spaces instead of tabs, we need to have a serious talk.</strong></p>
