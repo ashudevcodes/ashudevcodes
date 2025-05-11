@@ -22,7 +22,7 @@
 ### 📦 Tools I use
 <p align="center">
   <a href="#">
-    <img style="width:40%" src="https://skillicons.dev/icons?i=js,cpp,go,lua,bash,linux,vim">
+    <img style="width:50%" src="https://skillicons.dev/icons?i=js,cpp,go,lua,bash,java,python,linux,vim">
   </a>
 </p>
 
