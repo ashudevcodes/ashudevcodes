@@ -16,7 +16,7 @@
 
 <a href="#"><img style="width:30%" src="https://skillicons.dev/icons?i=js,cpp,go,lua,bash,java,python,linux,vim"></a>
 
-**if &nbsp; [ -n "$tools" ]  && [ -n "$myLaptop" ] && [-n "$[Fedora-dotfile](https://github.com/ashudevcodes/dotfiles)" ]; &nbsp; then <br>
+**if &nbsp; [ -n "$tools" ]  && [ -n "$myLaptop" ] && [-n "$[myLinuxEnv](https://github.com/ashudevcodes/dotfiles)" ]; &nbsp; then <br>
       &ensp;&ensp; [Sh Boom (Life Could Be A Dream)](https://www.youtube.com/watch?v=iIfeceS0i4c) <br>
 fi**
               
