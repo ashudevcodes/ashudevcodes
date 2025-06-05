@@ -1,5 +1,4 @@
 
-
 <kbd><img src="assets/india.png"></kbd>
 
 >  ***“The important thing isn't can you read music, it's can you hear it. Can you hear the music” --Niels Bohr***
@@ -10,7 +9,7 @@
 
 
 <div hignt="40%" width="40%" object-fit="contain">
-  <img hignt="40%" width="40%" object-fit="contain" align="left" src="./assets/wild_robot.jpg"/>
+  <img hignt="40%" width="40%" object-fit="contain" align="left" src="https://github.com/user-attachments/assets/b60cf497-aef5-422d-be16-aaa3d683c9a1"/>
 </div>
 
 
