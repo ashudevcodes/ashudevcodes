@@ -13,8 +13,9 @@ fi**
 >  ***“The important thing isn't can you read music, it's can you hear it. Can you hear the music” --Niels Bohr***
 
 |  What am I up to ? |
-| ------------- | 
-| ***Currently understanding the arts of Operating System Kernel because apparently "Hello World" wasn't challenging enough. obsessed with system programming languages. Left brain (cache memory) is empty enough to store all their syntaxs. Meanwhile, Right one was chilling with*** $$\bigcup_{k=1}^{n} \text{Pattern}_k$$ |
+| ------------- |
+| Currently understanding the arts of Operating System Kernels because apparently "Hello World" wasn't challenging enough. obsessed with system programming languages.
+Left brain (cache memory) is empty enough to store all programming languages syntaxs. Meanwhile, Right one was chilling with $$\bigcup_{k=1}^{n} \text{Pattern}_k$$ |
 
 
         
