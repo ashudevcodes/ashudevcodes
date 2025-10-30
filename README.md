@@ -1,12 +1,10 @@
 <!-- <kbd><img src="assets/india.png"></kbd> -->
 <div hignt="40%" width="40%" object-fit="contain">
   <img hignt="40%" width="40%" object-fit="contain" align="left" src="https://github.com/user-attachments/assets/db487305-1916-4473-a56a-1a35dd9beef8"/>
+  <a href="#"><img style="width:30%" src="https://skillicons.dev/icons?i=js,c,go,lua,bash,arch,vim"></a>
 </div>
 
-
-<a href="#"><img style="width:30%" src="https://skillicons.dev/icons?i=js,c,go,lua,bash,arch,vim"></a>
-
-**if &nbsp; [ -n "$tools" ]  && [ -n "$myLaptop" ] && [-n "$[myLinuxEnv](https://github.com/ashudevcodes/dotfiles)" ]; &nbsp; then <br>
+ **if &nbsp; [ -n "$tools" ]  && [ -n "$myLaptop" ] && [-n "$[myLinuxEnv](https://github.com/ashudevcodes/dotfiles)" ]; &nbsp; then <br>
       &ensp;&ensp; [Sh Boom (Life Could Be A Dream)](https://www.youtube.com/watch?v=iIfeceS0i4c) <br>
 fi**
       
