@@ -13,14 +13,12 @@ if [[ -n $tools && -n $myLaptop && -n $myLinuxEnv ]]; then
 fi
 ```
 
->  ***“The important thing isn't can you read music, it's can you hear it. Can you hear the music” --Niels Bohr***
 
 <p>Currently understanding the art of Operating System kernels because apparently 'Hello World' wasn't challenging enough.<br>
 Also obsessed with system programming languages.</p>
-
 Left brain: for caching every programming languages syntax
 
 Right brain:
 $$\bigcup_{k=1}^{n} \text{Pattern}_k$$.
 
-> *PS: If you're still using spaces instead of tabs, we need to have a serious talk*
+>  ***“The important thing isn't can you read music, it's can you hear it. Can you hear the music” --Niels Bohr***
