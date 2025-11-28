@@ -4,8 +4,7 @@
 
 <div hignt="40%" width="40%" object-fit="contain">
   <img hignt="40%" width="40%" object-fit="contain" align="left" src="https://github.com/user-attachments/assets/db487305-1916-4473-a56a-1a35dd9beef8"/>
-  <a href="#"><img style="width:30%" src="https://skillicons.dev/icons?i=js,c,go,lua,bash,arch,vim"></a>
-</div>
+ </div>
 
 ```bash
 if [[ -n $tools && -n $myLaptop && -n $myLinuxEnv ]]; then
@@ -13,7 +12,7 @@ if [[ -n $tools && -n $myLaptop && -n $myLinuxEnv ]]; then
 fi
 ```
 
-
+<br>
 <p>Currently understanding the art of Operating System kernels because apparently 'Hello World' wasn't challenging enough.<br>
 Also obsessed with system programming languages.</p>
 Left brain: for caching every languages syntax
