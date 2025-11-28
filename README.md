@@ -15,6 +15,7 @@ fi
 <hr>
 <p>Currently understanding the art of Operating System kernels because apparently 'Hello World' wasn't challenging enough.
 Also obsessed with system programming languages.</p>
+<hr>
 Left brain: for caching every languages syntax
 
 Right brain:
