@@ -7,8 +7,10 @@
  </div>
 
 ```bash
+#!/bin/bash
+ 
 if [[ -n $tools && -n $myLaptop && -n $myLinuxEnv ]]; then
-    play "$Sh_Boom_Life_Could_Be_A_Dream"
+  play "$Sh_Boom_Life_Could_Be_A_Dream"
 fi
 ```
 
