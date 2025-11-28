@@ -14,7 +14,7 @@ if [[ -n $tools && -n $myLaptop && -n $myLinuxEnv ]]; then
 fi
 ```
 
-<br>
+<hr>
 <p>Currently understanding the art of Operating System kernels because apparently 'Hello World' wasn't challenging enough.<br>
 Also obsessed with system programming languages.</p>
 Left brain: for caching every languages syntax
